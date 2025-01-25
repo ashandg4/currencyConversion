@@ -6,7 +6,6 @@ import requests
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-import mplcursors  # For hover effect on graphs
 import threading
 import time
 from plyer import notification
